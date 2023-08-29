@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html>
-  <div>
-    <title>Mouseau Website</title>
-    <h1>My First Website!</h1>
-    <h4>This is where I will be building my first website. (Only around 2 hours in of learning)</h4>
-    <h2>Stuff I need to work on</h2>
-    <ul>
-      <li>Adding CSS</li>
-      <li>Adding more Info</li>
-    </ul>
-    <img src="https://cdn.discordapp.com/attachments/1145795308865990778/1145795436704182384/anBn.png" alt="Canadian Flag">
-  </div>
-</html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML and CSS</title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: black;">
+
+    <h1 style="color: white">This is my website</h1>
+
+    <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ab enim nesciunt corporis ea? Voluptas officia velit explicabo sed maiores, quis nesciunt quia maxime. Quaerat autem aut debitis placeat similique! </p>
+    <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ab enim nesciunt corporis ea? Voluptas officia velit explicabo sed maiores, quis nesciunt quia maxime. Quaerat autem aut debitis placeat similique! </p>
+    <p id="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ab enim nesciunt corporis ea? Voluptas officia velit explicabo sed maiores, quis nesciunt quia maxime. Quaerat autem aut debitis placeat similique! </p>
+    <p id="p4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ab enim nesciunt corporis ea? Voluptas officia velit explicabo sed maiores, quis nesciunt quia maxime. Quaerat autem aut debitis placeat similique! </p>
+
+</body>
+</html> 
